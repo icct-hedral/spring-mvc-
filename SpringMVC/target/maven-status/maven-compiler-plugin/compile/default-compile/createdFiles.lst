@@ -1,0 +1,10 @@
+pe\tarea\service\ProductorServiceImpl.class
+pe\tarea\WebConfig.class
+pe\tarea\dao\ProductorDao.class
+pe\tarea\WebInitializer.class
+pe\tarea\controler\HomeController.class
+pe\tarea\model\Productor.class
+pe\tarea\model\Celular.class
+pe\tarea\model\Tabla.class
+pe\tarea\dao\ProductorDaoImpl.class
+pe\tarea\service\ProductorService.class
